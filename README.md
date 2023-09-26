@@ -5,6 +5,10 @@
 - Giovanni Shibaki Camargo - 11796444
 - Lucas Keiti Anbo Mihara  - 11796472
 
+## Vídeo de apresentação
+
+[![Vídeo de apresentação - Projeto Prático, Etapa 1](https://img.youtube.com/vi/hAiAPjH48Iw/0.jpg)](https://www.youtube.com/watch?v=hAiAPjH48Iw)
+
 ## Conjunto de dados escolhido
 
 Para este trabalho, escolhemos o **Database de filmes do IMDB** de forma a explorar algumas de seus características e obter visualizações uteis quanto à medias anuais de lucro, tempo de filme, gêneros mais assistidos, diretores mais famosos e lucros de seus filmes, etc.
