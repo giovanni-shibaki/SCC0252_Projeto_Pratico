@@ -7,7 +7,7 @@
 
 ## Vídeo de apresentação
 
-[![Vídeo de apresentação - Projeto Prático, Etapa 1](https://img.youtube.com/vi/hAiAPjH48Iw/0.jpg)](https://www.youtube.com/watch?v=hAiAPjH48Iw)
+[![Vídeo de apresentação - Projeto Prático, Etapa 1](https://img.youtube.com/vi/FijC5_Plgag.jpg)](https://www.youtube.com/watch?v=FijC5_Plgag)
 
 ## Conjunto de dados escolhido
 
