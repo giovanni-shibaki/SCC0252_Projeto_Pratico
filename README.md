@@ -1,4 +1,4 @@
-# SCC0252 - Visualização Computacional, Projeto Prático - Etapa 1
+# SCC0252 - Visualização Computacional, Projeto Prático - Etapa 1 e 2
 
 ## Membros
 
